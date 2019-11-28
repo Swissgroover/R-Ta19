@@ -43,13 +43,13 @@ main {
 }
 
 .blue {
-    background-color: blue;
+    background-color: midnightblue;
 }
 
 .red {
-    background-color: red;
+    background-color: rgb(219, 26, 26);
 }
 
 .green {
-    background-color: green;
+    background-color: olive;
 }
